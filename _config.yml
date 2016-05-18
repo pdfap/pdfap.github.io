@@ -2,6 +2,7 @@ markdown: kramdown
 permalink: /:title.html
 auto: true
 relative_permalinks: false
+highlighter: rouge
 
 safe: true
 lsi: false
